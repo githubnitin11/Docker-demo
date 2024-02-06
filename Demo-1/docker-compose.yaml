@@ -4,4 +4,4 @@ services:
     image: image8
     container_name: hello-word
     ports:
-      - "5000:5000"
+      - "7000:5000"
